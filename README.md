@@ -2,6 +2,7 @@
 
 ### Densely Connected Transformer with Linear Self-Attention for Lightweight Image Super-Resolution
 This is an official implementation of [Densely Connected Transformer with Linear Self-Attention for Lightweight Image Super-Resolution](https://ieeexplore.ieee.org/document/10215496)
+
 If this repo works for you, please cite our papers:
 ```
 @ARTICLE{zeng2023densely,
