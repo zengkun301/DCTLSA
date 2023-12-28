@@ -22,6 +22,9 @@ sh demo.sh
 ```
 The testing results will be saved in the `./experiments` folder.
 
+## License
+This project is released under the Apache 2.0 license.
+
 
 ## Acknowledgements
 This code is built on [EDSR-PyTorch](https://github.com/sanghyun-son/EDSR-PyTorch). We thank the authors for sharing their codes.
